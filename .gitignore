@@ -1,0 +1,5 @@
+# Project exclude paths
+/common/target/
+/dw-chart/target/
+/mocker/target/
+/realtime/target/
